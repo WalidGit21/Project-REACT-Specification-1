@@ -1,0 +1,5 @@
+My project named "Tfarej" is a web application to watch movies,
+its built with HTML,CSS,JS,Bootstrap and REACT-REDUX,it contains 
+list of movies you can delete or add movies, you can search for one if you like
+and you can filter movies as you like,it also contains the list of subscribers
+to our application and you can manage them as you like!
